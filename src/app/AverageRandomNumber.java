@@ -15,7 +15,7 @@ import java.util.Scanner;
  */
 public class AverageRandomNumber {
     
-    
+    //put a comment here 2
     public static void main(String args[]){
     
         Scanner keyboard = new Scanner(System.in);
